@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686892668737",
+    "firebase_url": "https://carely-6672e.firebaseio.com",
+    "project_id": "carely-6672e",
+    "storage_bucket": "carely-6672e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686892668737:android:966e7f6ab203a55a3df3c0",
+        "android_client_info": {
+          "package_name": "com.ab.carely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686892668737-ses4i4erjv5d33ml69jiiiulbak8p2u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdPjISP5ziUFsl-thxDFwjSrOLzkukdtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686892668737-ses4i4erjv5d33ml69jiiiulbak8p2u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
